@@ -33,4 +33,4 @@
 
 Я всегда открыт для обсуждения возможностей сотрудничества, обратной связи по моим проектам или просто интересного разговора о технологиях.
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[YOUR-TELEGRAM-USERNAME])
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chovavernovv)
